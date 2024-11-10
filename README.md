@@ -1,3 +1,14 @@
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>Student Name: Ryan Rambali</h1>
+      <br>
+      <h1>Student ID: 300235460</h1>
+    </summary>
+  </ul>
+</div>
+
+
 # EmployeeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
