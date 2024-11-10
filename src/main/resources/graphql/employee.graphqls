@@ -3,7 +3,7 @@ type Query {
 }
 
 type Employee {
-    employeeId: ID!
+    id: ID!
     name: String!
     dateOfBirth: String!
     city: String!
@@ -13,7 +13,6 @@ type Employee {
 }
 
 input CreateEmployeeInput {
-    employeeId: ID,
     name: String,
     dateOfBirth: String,
     city: String,
